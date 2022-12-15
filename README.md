@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Surya Intan Permana
-- 📫 How to reach me [@aaayrus_](https://www.instagram.com/aaayrus_/)
+- 🔭 I’m currently working on [Opencloud](https://opencloud.id/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/surya-intan-permana-b60766214/), [Instagram](https://www.instagram.com/aaayrus_/)
+- 🎓My last education was S1 Information System
 
 <!---
 yhaae01/yhaae01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
